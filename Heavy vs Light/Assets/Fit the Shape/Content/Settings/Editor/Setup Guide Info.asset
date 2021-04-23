@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -280679880, guid: 0e9c8a102d32c9e44bd20865435c7d8c, type: 3}
+  m_Name: Setup Guide Info
+  m_EditorClassIdentifier: 
+  gameName: Fit the Shape
+  documentationURL: https://drive.google.com/open?id=1oFjG83oVKGMGhf-yYudygfAtwZyw5Lnc
+  windowButtons:
+  - title: Define Manager
+    textureName: icon_modules
+    menuPath: Tools/Editor/Define Manager
+  - title: Level Editor
+    textureName: icon_levels
+    menuPath: Tools/Editor/Level Database
+  folderButtons: []
+  fileButtons: []

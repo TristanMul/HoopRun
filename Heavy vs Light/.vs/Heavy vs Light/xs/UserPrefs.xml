@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{404AFF2E-55F6-E9B2-87D8-53C3035CA7B9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AdvancedPeoplePack2/Scripts/Editor/EditorCharacterPrefabEdit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="71" Column="33" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="162" Column="17" />
+      <File FileName="Assets/Scripts/CubeWallTrigger.cs" />
+      <File FileName="Assets/Scripts/ObstacleTrigger.cs" />
+      <File FileName="Assets/Scripts/EnemyIceTrigger.cs" />
+      <File FileName="Assets/AdvancedPeoplePack2/Scripts/Editor/EditorCharacterPrefabEdit.cs" Line="201" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Heavy vs Light" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="AdvancedPeoplePack2" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Editor" expanded="True">
+                    <Node name="EditorCharacterPrefabEdit.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Fit the Shape" expanded="True">
+                <Node name="Game" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="Watermelon Core" expanded="True">
+                  <Node name="Modules" expanded="True">
+                    <Node name="Multilanguage" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="SuspensionSystem" expanded="True">
+                <Node name="DemoAssets" expanded="True">
+                  <Node name="Editor" expanded="True">
+                    <Node name="CrossPlatformInput" expanded="True" />
+                  </Node>
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f9f20ac8-1aa7-44a8-9190-c365aa05b388" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

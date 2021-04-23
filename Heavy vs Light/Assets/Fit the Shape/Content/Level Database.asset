@@ -1,0 +1,5175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8d73996081bd3547b19ddec0bc75de0, type: 3}
+  m_Name: Level Database
+  m_EditorClassIdentifier: 
+  levels:
+  - type: 0
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 1
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 2
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 1
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 0
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 5
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 4
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 9
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 3
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 4
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 5
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 1
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 8
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 5
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: 9
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 4
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 1
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 3
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 5
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 1
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 4
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 9
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 8
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 2
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: 1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 2
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 2
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 4
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 1
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 6
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 4
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: 1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 5
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 0
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 5
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 1
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 1
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 6
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 3
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 0
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 3
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 0
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 5
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 3
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 1
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 7
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 5
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 3
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 5
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 5
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 4
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 3
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 2
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 1
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 0
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 7
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 8
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 0
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 1
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 5
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 1
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 8
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 9
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 6
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 5
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 2
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 3
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 1
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 1
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 9
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 5
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 3
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 0
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 0
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 5
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 4
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 1
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 8
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: 1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 5
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 0
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 6
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 6
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 1
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 3
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 4
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 1
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 9
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 7
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 7
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 0
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 2
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 5
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 1
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 1
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 4
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 9
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 3
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: 1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: 7
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 0
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 6
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 5
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 4
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 3
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 7
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  - type: 0
+    baitID: 3
+    blocks:
+    - type: 0
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 1
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 3
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 3
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 4
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 0
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 2
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: 4
+      ammountOfObstacles: 1
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 8
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 2
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+    - type: 1
+      obstacleID: -1
+      ammountOfObstacles: 0
+      ammountOfPillars: 0
+      gemPatternID: -1
+  obstacles:
+  - name: Low Obstacle
+    lines:
+    - line: 000000000000000000010101010000
+    - line: 000000000000000000010000010101
+    - line: 000000000000000000010101010000
+    - line: 000000000000000000000000010000
+    - line: 000000000000000000000000010000
+    - line: 000000000000000000000000010000
+    - line: 000000000000000000000000010000
+    - line: 000000000000000000000000010000
+    - line: 000000000000000000000000010000
+    - line: 000000000000000000000000010000
+    - line: 000000000000000000000000010000
+    - line: 000000000000000000000000010000
+    - line: 000000000000000000010101010000
+    - line: 000000000000000000010000010101
+    - line: 000000000000000000010101010000
+    baitPoint: {x: 7, y: 10}
+    prefab: {fileID: 2849989753259815598, guid: 756552d81ad933842a704a6642e497b4,
+      type: 3}
+    detailedPrefab: {fileID: 3921030162761101209, guid: ebda6fead2e16f149a085c2085cb3604,
+      type: 3}
+    minX: -1.5
+    minY: 0.39999998
+    maxX: 1.5
+    maxY: 1.1999999
+  - name: Tall Obstacle
+    lines:
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    - line: 000000010101010101010101010101
+    - line: 000000010000000000000000000000
+    - line: 000000010000000000000000000000
+    - line: 000000010000000000000000000000
+    - line: 000000010101010101010101010101
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    baitPoint: {x: 7, y: 8}
+    prefab: {fileID: 1684723181849290889, guid: 780d84529ef154a4d8f7b079ddca4331,
+      type: 3}
+    detailedPrefab: {fileID: 3866591142076706233, guid: 37799ad7dbe054e4e88b4f4d83a0d85b,
+      type: 3}
+    minX: -0.5
+    minY: 2.2
+    maxX: 0.5
+    maxY: 2.4
+  - name: One Hole
+    lines:
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    - line: 000000000001010101010101010101
+    - line: 000000000001000000010000000000
+    - line: 000000000001000000010000000000
+    - line: 000000000001000000010000000000
+    - line: 000000000001000000010000000000
+    - line: 000000000001000000010000000000
+    - line: 000000000001000000010000000000
+    - line: 000000000001000000010000000000
+    - line: 000000000001010101010101010101
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    baitPoint: {x: 7, y: 7}
+    prefab: {fileID: 4762100167440514435, guid: 5f51ca37d5530af4f9e4b8ceadf3590d,
+      type: 3}
+    detailedPrefab: {fileID: 2293485715667793740, guid: 097c755d3a19d664a81c1b603c49c329,
+      type: 3}
+    minX: -0.9
+    minY: 1
+    maxX: 0.90000004
+    maxY: 2
+  - name: Two Hole
+    lines:
+    - line: 000000000000000000000000000000
+    - line: 000000000001010101010000000000
+    - line: 000000000001000000010000000000
+    - line: 000000000001000000010101010101
+    - line: 000000000001000000010000000000
+    - line: 000000000001000000010000000000
+    - line: 000000000001000000010000000000
+    - line: 000000000001010101010000000000
+    - line: 000000000001000000010000000000
+    - line: 000000000001000000010000000000
+    - line: 000000000001000000010000000000
+    - line: 000000000001000000010101010101
+    - line: 000000000001000000010000000000
+    - line: 000000000001010101010000000000
+    - line: 000000000000000000000000000000
+    baitPoint: {x: 4, y: 7}
+    prefab: {fileID: 5428172563233690431, guid: 0e053b9486c2deb4680e7f75dd13465c,
+      type: 3}
+    detailedPrefab: {fileID: 2853291491356232271, guid: 5c314453122e3694b83df5b036e5141b,
+      type: 3}
+    minX: -1.3
+    minY: 1
+    maxX: 1.3000001
+    maxY: 2
+  - name: Medium Obstacle
+    lines:
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    - line: 000000000000000001010101010101
+    - line: 000000000000000001000000000000
+    - line: 000000000000000001000000000000
+    - line: 000000000000000001000000000000
+    - line: 000000000000000001000000000000
+    - line: 000000000000000001000000000000
+    - line: 000000000000000001000000000000
+    - line: 000000000000000001000000000000
+    - line: 000000000000000001010101010101
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    - line: 000000000000000000000000000000
+    baitPoint: {x: 7, y: 11}
+    prefab: {fileID: 2159684459905111639, guid: fe7fa247c48e4de40bc4e4cae43a0c00,
+      type: 3}
+    detailedPrefab: {fileID: 3450376279472690491, guid: 0f0180f0eda5ca54085d3f547efe37a0,
+      type: 3}
+    minX: -0.9
+    minY: 1.1999999
+    maxX: 0.90000004
+    maxY: 1.4
+  baits:
+  - name: Cupcake
+    prefab: {fileID: 6646562979995649578, guid: 47e9c61a0f2f8fc4cb1e1b154977032c,
+      type: 3}
+    texture: {fileID: 21300000, guid: 1c05d1408e219b649a8773d54ca0ed24, type: 3}
+    lockedTexture: {fileID: 21300000, guid: e0f9ec504c07e584995444571010a1d5, type: 3}
+  - name: Donut
+    prefab: {fileID: 1405634383970716313, guid: ddd0f6e838bc8bb48a3844ff2cfc4436,
+      type: 3}
+    texture: {fileID: 21300000, guid: 0889c93f292635b48b87692505f43c50, type: 3}
+    lockedTexture: {fileID: 21300000, guid: 466046afef941e643a4488a6a56b5903, type: 3}
+  - name: Ice Cream
+    prefab: {fileID: 5117038684021853610, guid: ac4fb2ccd7655434e96b64f2c3d9faec,
+      type: 3}
+    texture: {fileID: 21300000, guid: 183e7e1c5e89cde4e9e97cda7ffd20c7, type: 3}
+    lockedTexture: {fileID: 21300000, guid: 7b86505fd7118ff419f3824041aa1b5c, type: 3}
+  - name: Soda Can
+    prefab: {fileID: 6432638041524232650, guid: b63afc86de6f3b540a12a35b2d752542,
+      type: 3}
+    texture: {fileID: 21300000, guid: c077e49b8e4fcfe4ea2d2b7f6b0db2f8, type: 3}
+    lockedTexture: {fileID: 21300000, guid: 4fcb3da2b6ed8a4419acf0394d83a94f, type: 3}
+  - name: Strawberry
+    prefab: {fileID: 6050549177059518779, guid: a16d5304f24ef4e4fac9ad3a7753c709,
+      type: 3}
+    texture: {fileID: 21300000, guid: 1ebc9b909e82dca4584c9e537837e419, type: 3}
+    lockedTexture: {fileID: 21300000, guid: 29d941341ab78204fbe75268eeace79f, type: 3}
+  - name: Watermelon
+    prefab: {fileID: 8581508000964300811, guid: d5afb48e59fc8b744bf6eb95d613a127,
+      type: 3}
+    texture: {fileID: 21300000, guid: b2d89bf7788cdc440988acea420f6a39, type: 3}
+    lockedTexture: {fileID: 21300000, guid: f606c9b8c40f09b46b387a886920a615, type: 3}
+  gemPatterns:
+  - name: Pattern 0
+    gems:
+    - {x: 0, y: 0, z: 3}
+    - {x: 0, y: 0, z: 4}
+    - {x: 0, y: 0, z: 7}
+    - {x: 0, y: 0, z: 8}
+    - {x: 4, y: 0, z: 1}
+    - {x: 4, y: 0, z: 2}
+    - {x: 4, y: 0, z: 5}
+    - {x: 4, y: 0, z: 6}
+  - name: Pattern 1
+    gems:
+    - {x: 2, y: 0, z: 0}
+    - {x: 2, y: 0, z: 8}
+    - {x: 1, y: 1, z: 1}
+    - {x: 1, y: 1, z: 7}
+    - {x: 0, y: 2, z: 2}
+    - {x: 0, y: 2, z: 3}
+    - {x: 0, y: 2, z: 4}
+    - {x: 0, y: 2, z: 5}
+    - {x: 0, y: 2, z: 6}
+  - name: Pattern 2
+    gems:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 8}
+    - {x: 1, y: 0, z: 1}
+    - {x: 1, y: 0, z: 7}
+    - {x: 2, y: 0, z: 2}
+    - {x: 2, y: 0, z: 6}
+    - {x: 3, y: 0, z: 3}
+    - {x: 3, y: 0, z: 5}
+    - {x: 4, y: 0, z: 4}
+  - name: Pattern 3
+    gems:
+    - {x: 0, y: 0, z: 4}
+    - {x: 1, y: 0, z: 3}
+    - {x: 1, y: 0, z: 5}
+    - {x: 2, y: 0, z: 2}
+    - {x: 2, y: 0, z: 6}
+    - {x: 3, y: 0, z: 1}
+    - {x: 3, y: 0, z: 7}
+    - {x: 4, y: 0, z: 0}
+    - {x: 4, y: 0, z: 8}
+  - name: Pattern 4
+    gems:
+    - {x: 1, y: 0, z: 0}
+    - {x: 1, y: 0, z: 4}
+    - {x: 1, y: 0, z: 8}
+    - {x: 2, y: 0, z: 1}
+    - {x: 2, y: 0, z: 3}
+    - {x: 2, y: 0, z: 5}
+    - {x: 2, y: 0, z: 7}
+    - {x: 3, y: 0, z: 2}
+    - {x: 3, y: 0, z: 6}
+  - name: Pattern 5
+    gems:
+    - {x: 1, y: 0, z: 2}
+    - {x: 1, y: 0, z: 6}
+    - {x: 2, y: 0, z: 1}
+    - {x: 2, y: 0, z: 3}
+    - {x: 2, y: 0, z: 5}
+    - {x: 2, y: 0, z: 7}
+    - {x: 3, y: 0, z: 0}
+    - {x: 3, y: 0, z: 4}
+    - {x: 3, y: 0, z: 8}
+  - name: Pattern 6
+    gems:
+    - {x: 0, y: 2, z: 0}
+    - {x: 0, y: 2, z: 1}
+    - {x: 0, y: 2, z: 7}
+    - {x: 0, y: 2, z: 8}
+    - {x: 1, y: 1, z: 2}
+    - {x: 1, y: 1, z: 6}
+    - {x: 0, y: 0, z: 4}
+    - {x: 1, y: 0, z: 4}
+    - {x: 2, y: 0, z: 3}
+    - {x: 2, y: 0, z: 5}
+    - {x: 3, y: 0, z: 4}
+    - {x: 4, y: 0, z: 4}
+  - name: Pattern 7
+    gems:
+    - {x: 0, y: 2, z: 0}
+    - {x: 0, y: 2, z: 1}
+    - {x: 0, y: 1, z: 4}
+    - {x: 1, y: 1, z: 2}
+    - {x: 1, y: 1, z: 3}
+    - {x: 2, y: 1, z: 4}
+    - {x: 0, y: 0, z: 7}
+    - {x: 0, y: 0, z: 8}
+    - {x: 1, y: 0, z: 5}
+    - {x: 1, y: 0, z: 6}
+    - {x: 3, y: 0, z: 5}
+    - {x: 3, y: 0, z: 6}
+    - {x: 4, y: 0, z: 7}
+    - {x: 4, y: 0, z: 8}
+  - name: Pattern 8
+    gems:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 4}
+    - {x: 0, y: 0, z: 8}
+    - {x: 1, y: 0, z: 1}
+    - {x: 1, y: 0, z: 3}
+    - {x: 1, y: 0, z: 5}
+    - {x: 1, y: 0, z: 7}
+    - {x: 2, y: 0, z: 2}
+    - {x: 2, y: 0, z: 6}
+    - {x: 3, y: 0, z: 1}
+    - {x: 3, y: 0, z: 3}
+    - {x: 3, y: 0, z: 5}
+    - {x: 3, y: 0, z: 7}
+    - {x: 4, y: 0, z: 0}
+    - {x: 4, y: 0, z: 4}
+    - {x: 4, y: 0, z: 8}
+  - name: Pattern 9
+    gems:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 1}
+    - {x: 0, y: 0, z: 2}
+    - {x: 0, y: 0, z: 3}
+    - {x: 4, y: 0, z: 5}
+    - {x: 4, y: 0, z: 6}
+    - {x: 4, y: 0, z: 7}
+    - {x: 4, y: 0, z: 8}
+  generatorPresets:
+  - levelType: 0
+    amountOfBlocks: 20
+    turnChance: 0.1
+    obstacleChance: 0.5
+    railsChance: 0.1
+    ascendingRailsChance: 0.05
+    descendingRailsChance: 0.05
+    tramplinChance: 0.05
+    multipleObstacleChance: 0.2
+    gemPatternChance: 0.1
+    name: Easy
+  - levelType: 0
+    amountOfBlocks: 40
+    turnChance: 0.15
+    obstacleChance: 1
+    railsChance: 0.1
+    ascendingRailsChance: 0.05
+    descendingRailsChance: 0.05
+    tramplinChance: 0.05
+    multipleObstacleChance: 0.5
+    gemPatternChance: 0.1
+    name: Middle
+  - levelType: 1
+    amountOfBlocks: 20
+    turnChance: 0.1
+    obstacleChance: 0.5
+    railsChance: 0.1
+    ascendingRailsChance: 0.1
+    descendingRailsChance: 0.1
+    tramplinChance: 0.1
+    multipleObstacleChance: 0.2
+    gemPatternChance: 0.8
+    name: Gem1
+  turboPreset:
+    name: Turbo Preset
+    backgroundStart: {r: 0.83637416, g: 0.990566, b: 0.84354585, a: 1}
+    backgroundFinish: {r: 0.25882354, g: 0.93333334, b: 0.2901961, a: 1}
+    platformBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    platformSurface: {r: 0.9843137, g: 0.9843137, b: 0.9843137, a: 1}
+    obstacleBody: {r: 0.39790118, g: 0.735849, b: 0.32280168, a: 1}
+    obstacleSurface: {r: 0.1254895, g: 0.5660378, b: 0.19855912, a: 1}
+    railBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    railSurface: {r: 0.654902, g: 0.6699003, b: 0.9137255, a: 1}
+    railPart: {r: 0.4447763, g: 1, b: 0, a: 1}
+  gemRushPreset:
+    name: Gem Rush Preset
+    backgroundStart: {r: 0.92156863, g: 0.7607843, b: 1, a: 1}
+    backgroundFinish: {r: 0.6431373, g: 0.09019608, b: 0.90588236, a: 1}
+    platformBody: {r: 1, g: 0.6745098, b: 0.29803923, a: 1}
+    platformSurface: {r: 1, g: 0.903378, b: 0.75, a: 1}
+    obstacleBody: {r: 0.49803922, g: 0.5529412, b: 0.7372549, a: 1}
+    obstacleSurface: {r: 0.2, g: 0.24705882, b: 0.40392157, a: 1}
+    railBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    railSurface: {r: 0.654902, g: 0.67058825, b: 0.9137255, a: 1}
+    railPart: {r: 1, g: 0.25882354, b: 0.25882354, a: 1}
+  defaultPreset:
+    name: Default Preset
+    backgroundStart: {r: 0.8156863, g: 0.92941177, b: 1, a: 1}
+    backgroundFinish: {r: 0, g: 0.60784316, b: 1, a: 1}
+    platformBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    platformSurface: {r: 0.9843137, g: 0.9843137, b: 0.9843137, a: 1}
+    obstacleBody: {r: 0.49803922, g: 0.5529412, b: 0.7372549, a: 1}
+    obstacleSurface: {r: 0.2, g: 0.24705882, b: 0.40392157, a: 1}
+    railBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    railSurface: {r: 0.654902, g: 0.67058825, b: 0.9137255, a: 1}
+    railPart: {r: 1, g: 0.25882354, b: 0.25882354, a: 1}
+  colorPresets:
+  - name: Color Preset 1
+    backgroundStart: {r: 1, g: 0.8156863, b: 0.91680986, a: 1}
+    backgroundFinish: {r: 1, g: 0.4009434, b: 0.77682203, a: 1}
+    platformBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    platformSurface: {r: 0.9843137, g: 0.9843137, b: 0.9843137, a: 1}
+    obstacleBody: {r: 0.49803922, g: 0.5529412, b: 0.7372549, a: 1}
+    obstacleSurface: {r: 0.2, g: 0.24705882, b: 0.40392157, a: 1}
+    railBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    railSurface: {r: 0.654902, g: 0.67058825, b: 0.9137255, a: 1}
+    railPart: {r: 1, g: 0.25882354, b: 0.25882354, a: 1}
+  - name: Color Preset 2
+    backgroundStart: {r: 0.8156863, g: 0.92941177, b: 1, a: 1}
+    backgroundFinish: {r: 0.3019758, g: 0.735849, b: 0.6070429, a: 1}
+    platformBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    platformSurface: {r: 0.9843137, g: 0.9843137, b: 0.9843137, a: 1}
+    obstacleBody: {r: 0.49803922, g: 0.5529412, b: 0.7372549, a: 1}
+    obstacleSurface: {r: 0.2, g: 0.24705882, b: 0.40392157, a: 1}
+    railBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    railSurface: {r: 0.654902, g: 0.67058825, b: 0.9137255, a: 1}
+    railPart: {r: 1, g: 0.25882354, b: 0.25882354, a: 1}
+  - name: Color Preset 3
+    backgroundStart: {r: 1, g: 0.9182022, b: 0.8156863, a: 1}
+    backgroundFinish: {r: 1, g: 0.5893267, b: 0.2971698, a: 1}
+    platformBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    platformSurface: {r: 0.9843137, g: 0.9843137, b: 0.9843137, a: 1}
+    obstacleBody: {r: 0.49803922, g: 0.5529412, b: 0.7372549, a: 1}
+    obstacleSurface: {r: 0.2, g: 0.24705882, b: 0.40392157, a: 1}
+    railBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    railSurface: {r: 0.654902, g: 0.67058825, b: 0.9137255, a: 1}
+    railPart: {r: 1, g: 0.25882354, b: 0.25882354, a: 1}
+  - name: Color Preset 4
+    backgroundStart: {r: 0.8156863, g: 0.9009415, b: 1, a: 1}
+    backgroundFinish: {r: 0.33459416, g: 0.5719466, b: 0.9716981, a: 1}
+    platformBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    platformSurface: {r: 0.9843137, g: 0.9843137, b: 0.9843137, a: 1}
+    obstacleBody: {r: 0.49803922, g: 0.5529412, b: 0.7372549, a: 1}
+    obstacleSurface: {r: 0.2, g: 0.24705882, b: 0.40392157, a: 1}
+    railBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    railSurface: {r: 0.654902, g: 0.67058825, b: 0.9137255, a: 1}
+    railPart: {r: 1, g: 0.25882354, b: 0.25882354, a: 1}
+  - name: Color Preset 5
+    backgroundStart: {r: 0.87394726, g: 0.8156863, b: 1, a: 1}
+    backgroundFinish: {r: 0.6145938, g: 0.3532396, b: 0.9245283, a: 1}
+    platformBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    platformSurface: {r: 0.9843137, g: 0.9843137, b: 0.9843137, a: 1}
+    obstacleBody: {r: 0.49803922, g: 0.5529412, b: 0.7372549, a: 1}
+    obstacleSurface: {r: 0.2, g: 0.24705882, b: 0.40392157, a: 1}
+    railBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    railSurface: {r: 0.654902, g: 0.67058825, b: 0.9137255, a: 1}
+    railPart: {r: 1, g: 0.25882354, b: 0.25882354, a: 1}
+  - name: Color Preset 6
+    backgroundStart: {r: 0.8156863, g: 0.92941177, b: 1, a: 1}
+    backgroundFinish: {r: 0, g: 0.60784316, b: 1, a: 1}
+    platformBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    platformSurface: {r: 0.9843137, g: 0.9843137, b: 0.9843137, a: 1}
+    obstacleBody: {r: 0.49803922, g: 0.5529412, b: 0.7372549, a: 1}
+    obstacleSurface: {r: 0.2, g: 0.24705882, b: 0.40392157, a: 1}
+    railBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    railSurface: {r: 0.654902, g: 0.67058825, b: 0.9137255, a: 1}
+    railPart: {r: 1, g: 0.25882354, b: 0.25882354, a: 1}
+  - name: Color Preset 7
+    backgroundStart: {r: 0.8156863, g: 0.92941177, b: 1, a: 1}
+    backgroundFinish: {r: 0, g: 0.60784316, b: 1, a: 1}
+    platformBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    platformSurface: {r: 0.9843137, g: 0.9843137, b: 0.9843137, a: 1}
+    obstacleBody: {r: 0.49803922, g: 0.5529412, b: 0.7372549, a: 1}
+    obstacleSurface: {r: 0.2, g: 0.24705882, b: 0.40392157, a: 1}
+    railBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    railSurface: {r: 0.654902, g: 0.67058825, b: 0.9137255, a: 1}
+    railPart: {r: 1, g: 0.25882354, b: 0.25882354, a: 1}
+  - name: Color Preset 8
+    backgroundStart: {r: 0.8156863, g: 0.92941177, b: 1, a: 1}
+    backgroundFinish: {r: 0, g: 0.60784316, b: 1, a: 1}
+    platformBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    platformSurface: {r: 0.9843137, g: 0.9843137, b: 0.9843137, a: 1}
+    obstacleBody: {r: 0.49803922, g: 0.5529412, b: 0.7372549, a: 1}
+    obstacleSurface: {r: 0.2, g: 0.24705882, b: 0.40392157, a: 1}
+    railBody: {r: 0.4627451, g: 0.47058824, b: 0.61960787, a: 1}
+    railSurface: {r: 0.654902, g: 0.67058825, b: 0.9137255, a: 1}
+    railPart: {r: 1, g: 0.25882354, b: 0.25882354, a: 1}
+  skins:
+  - name: Green Powder
+    prefab: {fileID: 7158841184945708031, guid: 9b66a6be4db2b9d43ab3ba5cdfc9e937,
+      type: 3}
+    color: {r: 0.31764707, g: 0.6117647, b: 0.23137257, a: 1}
+    group: Food
+  - name: Red Jelly
+    prefab: {fileID: 7168120495332158529, guid: f4d1f76f88fe50641b5962b405437f19,
+      type: 3}
+    color: {r: 0.8941177, g: 0.16470589, b: 0.33333334, a: 1}
+    group: Food
+  - name: Chocolate
+    prefab: {fileID: 6354207734800131669, guid: 1f8ffbb3ea6b7c649b2aec02f72fce79,
+      type: 3}
+    color: {r: 0.5686275, g: 0.3882353, b: 0.29411766, a: 1}
+    group: Food
+  - name: Cheese
+    prefab: {fileID: 1102138047741902123, guid: 824e2380cfeef3e4baa092daa8343206,
+      type: 3}
+    color: {r: 1, g: 0.84705883, b: 0, a: 1}
+    group: Food
+  - name: Watermellon
+    prefab: {fileID: 2011405270479086402, guid: 0aeda63472be8704083067b5693dc228,
+      type: 3}
+    color: {r: 0.4392157, g: 0.69803923, b: 0.27058825, a: 1}
+    group: Food
+  - name: Bread
+    prefab: {fileID: 676141271895528841, guid: 7dcf13b83cd3443468474dd48b939ded, type: 3}
+    color: {r: 1, g: 0.4086607, b: 0, a: 1}
+    group: Food
+  - name: Earth
+    prefab: {fileID: 5949017601330824301, guid: f068a9ce1c89ac54b9a9d88491b2ac3b,
+      type: 3}
+    color: {r: 0.93333334, g: 0.63529414, b: 0.3372549, a: 1}
+    group: Elements
+  - name: Ice
+    prefab: {fileID: 661181422287454049, guid: 81b25dffd0e29c148995b997da5b3a77, type: 3}
+    color: {r: 0, g: 0.8948567, b: 1, a: 1}
+    group: Elements
+  - name: Lava
+    prefab: {fileID: 5466837691924673510, guid: a9525dda78b39354c9b10562358e5714,
+      type: 3}
+    color: {r: 0.77254903, g: 0.22745098, b: 0.09411765, a: 1}
+    group: Elements
+  - name: Rock
+    prefab: {fileID: 6332453136752697335, guid: cccc68e416542b34d83fdfb130c680bc,
+      type: 3}
+    color: {r: 0.49803922, g: 0.49019608, b: 0.49411765, a: 1}
+    group: Elements
+  - name: Water
+    prefab: {fileID: 5780662143528377403, guid: ae3f1b62e44c8844b9d15a73fb3f98c7,
+      type: 3}
+    color: {r: 0.09019608, g: 0.64705884, b: 0.7294118, a: 1}
+    group: Elements
+  - name: Wind
+    prefab: {fileID: 4974146748610665656, guid: 71efd5530fef93d45b7421d4e3f5443c,
+      type: 3}
+    color: {r: 0.8962264, g: 0.8962264, b: 0.8962264, a: 1}
+    group: Elements
+  skinGroups:
+  - Food
+  - Elements
+  skinGroupCosts: f4010000e8030000

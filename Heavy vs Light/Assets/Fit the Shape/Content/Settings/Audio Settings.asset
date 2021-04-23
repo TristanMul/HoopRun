@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8634c5cf5896bb84ca6474552cf85648, type: 3}
+  m_Name: Audio Settings
+  m_EditorClassIdentifier: 
+  isMusicEnabled: 1
+  isAudioEnabled: 1
+  musicAudioClips:
+  - {fileID: 8300000, guid: 9103ce9c0df10714b8affaeec4c254ac, type: 3}
+  sounds:
+    toggle: {fileID: 8300000, guid: fbfeada4a39636b4c8ac4b7e8d17566f, type: 3}
+    turn1: {fileID: 8300000, guid: 482f6dd6210af1e42b29bda243132da5, type: 3}
+    turn2: {fileID: 8300000, guid: 026f4a160cd2a904fbba32b4d0243262, type: 3}
+    obstacle: {fileID: 8300000, guid: 4e039b2ec74554f4bb31ba911fe86bcf, type: 3}
+    gem: {fileID: 8300000, guid: 5eb0e1eb973d3794fa86348af8f6a1d2, type: 3}
+    finish: {fileID: 8300000, guid: 0940d5a268094ae48ad3b504f73e734b, type: 3}
+    button: {fileID: 8300000, guid: 9669768f4626b1743914368f475f10db, type: 3}
+    bait: {fileID: 8300000, guid: cfc1e6c0869d56a4f8e042c55ef1f80f, type: 3}
+    explosion: {fileID: 8300000, guid: 530ed6f8b52e49c44805e4a36e7ab1ee, type: 3}
+    checkmark: {fileID: 8300000, guid: f9783a15e1041dc4c863b347f710bd02, type: 3}

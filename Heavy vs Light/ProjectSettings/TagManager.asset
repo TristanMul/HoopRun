@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Rail Part
+  - Bait
+  - Gem
+  - Obstacle Part
+  - Tramplin
+  - Game Over
+  - Enemy
+  - Push Obs
+  - Default
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle Part
+  - BodyPart
+  - Platform
+  - IgnorePlayer
+  - IgnorePlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Super Layer
+    uniqueID: 2017769619
+    locked: 0
+  - name: UI
+    uniqueID: 3913541297
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

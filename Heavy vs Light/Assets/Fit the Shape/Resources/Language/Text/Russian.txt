@@ -1,0 +1,5 @@
+﻿[Russian]
+default.level=УРОВЕНЬ
+default.gem_rush=КРИСТАЛОПАД
+start.settings=НАСТРОЙКИ
+start.customization=КАСТОМИЗАЦИЯ

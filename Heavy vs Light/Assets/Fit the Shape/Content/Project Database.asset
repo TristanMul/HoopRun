@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 549d72cbe393e164eb58f0f739627909, type: 3}
+  m_Name: Project Database
+  m_EditorClassIdentifier: 
+  gem: {fileID: 2127248949543559001, guid: cb93cffa185534744848736ddb42e28b, type: 3}
+  pillar: {fileID: -927199367670048503, guid: 6e8d0fe466c5dde44ad0f051efdc80c2, type: 3}
+  start: {fileID: 4416653680218037241, guid: 48ebc91f92826ab42b7d7d3964fdc21c, type: 3}
+  finish: {fileID: 8100118060177613357, guid: f41b23f6a02ebb44c8fd1ca8f25d1973, type: 3}
+  straitLine: {fileID: 586890124460940945, guid: 585007f818bc5754d825f4c193d5cbeb,
+    type: 3}
+  turnLeft: {fileID: 3722314572427529638, guid: 9116b1469611444469f3a8853222df88,
+    type: 3}
+  turnRight: {fileID: 3343787811958612400, guid: 338baf7514bae8f43bd707e4cafb5975,
+    type: 3}
+  rails: {fileID: 7933342563715099871, guid: 11d2734e28129ec4f928db4d9d7f93bc, type: 3}
+  ascendingRails: {fileID: 7748573992044596935, guid: d36277f960540c84fac7768a6960d5f2,
+    type: 3}
+  descendingRails: {fileID: 6011281632165853794, guid: ec71223e6d982504cb2c5843a00ad2e6,
+    type: 3}
+  tramplin: {fileID: 8729519331338440032, guid: 431f849b6adba9a479a741cd50fc9f60,
+    type: 3}
+  obstacleBlock: {fileID: 7991587968760749935, guid: accb9355fa66c2c4aa4893019573dd31,
+    type: 3}
+  obstacleBodyMaterial: {fileID: 2100000, guid: 9d403a24dad97424f9a8b0399d4c6a87,
+    type: 2}
+  obstacleSurfaceMaterial: {fileID: 2100000, guid: 42405fd00fdc9194fb12355eec07c48d,
+    type: 2}
